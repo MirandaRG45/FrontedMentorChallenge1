@@ -1,1 +1,173 @@
+body{
+  text-align: center;
+  font-family: 'Quicksand', sans-serif;
+  margin: 0;
+}
 
+h1{
+  font-size: 3rem;
+  color: #595260;
+  font-weight: bolder;
+  margin-bottom: 0;
+}
+
+h2{
+  color: #595260;
+  font-weight: bolder;
+  font-size: 2.2rem;
+}
+
+h3{
+  color: #595260;
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+
+p{
+  color: #B2B1B9;
+  font-size: 1.2rem;
+  padding: 0 20%;
+  line-height: 1.5;
+}
+
+.btn{
+  margin: 10px 10px;
+}
+
+#header{
+  height: 350px;
+}
+
+.copyright-img{
+  text-align: center;
+  color: #4FBDBA;
+  padding: 2% 0;
+}
+
+.buttons{
+  padding: 2% 0 5% 0;
+}
+
+.ios-btn {
+  background: #18db9a;
+  background-image: -webkit-linear-gradient(top, #18db9a, #27b8a5);
+  background-image: -moz-linear-gradient(top, #18db9a, #27b8a5);
+  background-image: -ms-linear-gradient(top, #18db9a, #27b8a5);
+  background-image: -o-linear-gradient(top, #18db9a, #27b8a5);
+  background-image: linear-gradient(to bottom, #18db9a, #27b8a5);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  -webkit-box-shadow: 0px 1px 3px #59d9c4;
+  -moz-box-shadow: 0px 1px 3px #59d9c4;
+  box-shadow: 0px 1px 3px #59d9c4;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 12px 22px 12px 22px;
+  border: solid #18db9a 2px;
+  text-decoration: none;
+}
+
+.ios-btn:hover {
+  background: #88deb4;
+  background-image: -webkit-linear-gradient(top, #88deb4, #39db71);
+  background-image: -moz-linear-gradient(top, #88deb4, #39db71);
+  background-image: -ms-linear-gradient(top, #88deb4, #39db71);
+  background-image: -o-linear-gradient(top, #88deb4, #39db71);
+  background-image: linear-gradient(to bottom, #88deb4, #39db71);
+  text-decoration: none;
+}
+
+.mac-btn {
+  background: #6679d9;
+  background-image: -webkit-linear-gradient(top, #6679d9, #4872f0);
+  background-image: -moz-linear-gradient(top, #6679d9, #4872f0);
+  background-image: -ms-linear-gradient(top, #6679d9, #4872f0);
+  background-image: -o-linear-gradient(top, #6679d9, #4872f0);
+  background-image: linear-gradient(to bottom, #6679d9, #4872f0);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  -webkit-box-shadow: 0px 1px 3px #645dc2;
+  -moz-box-shadow: 0px 1px 3px #645dc2;
+  box-shadow: 0px 1px 3px #645dc2;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 14px;
+  padding: 12px 22px 12px 22px;
+  border: solid #6679d9 2px;
+  text-decoration: none;
+}
+
+.mac-btn:hover {
+  background: #8993fa;
+  background-image: -webkit-linear-gradient(top, #8993fa, #887ed6);
+  background-image: -moz-linear-gradient(top, #8993fa, #887ed6);
+  background-image: -ms-linear-gradient(top, #8993fa, #887ed6);
+  background-image: -o-linear-gradient(top, #8993fa, #887ed6);
+  background-image: linear-gradient(to bottom, #8993fa, #887ed6);
+  text-decoration: none;
+}
+
+
+/* computer section */
+#computer{
+  padding: 5% 0;
+}
+
+.computer-img{
+  float: left;
+  position: relative;
+  right: 35px;
+  margin-right: 50px;
+}
+
+.benefits{
+  text-align: left;
+  padding: 10px;
+
+}
+
+.benefits-p{
+  font-size:1rem;
+  padding-right: 12.5rem;
+}
+
+.tablet{
+  padding-top: 10%;
+  padding-left: 0.625rem;
+  padding-right: 0.625rem;
+
+}
+
+.devices-img{
+  margin-top: 5%;
+}
+
+/* features */
+#features{
+  padding: 3% 5% 8%;
+}
+
+.feat-text{
+  padding: 0;
+}
+
+.h3-feat{
+  margin-top: 3%;
+  margin-bottom: 5%;
+}
+
+.icons{
+  padding: 0 2%;
+  width: 15%;
+}
+
+.footer{
+    padding: 10% 3% 1%;
+}
+/* Footer  */
+footer{
+  padding-top: 10%;
+}
